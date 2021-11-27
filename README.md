@@ -1,1 +1,1 @@
-Just simple cuda code written in visual studio
+Simple cuda code written in Visual Studio
